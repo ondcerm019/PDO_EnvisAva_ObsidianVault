@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello world.md",
+                "file": "index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello world"
+              "title": "index.md"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "c3566ada839707d3",
   "lastOpenFiles": [
+    "index.md.md",
     "First .md.md",
     "Hello world.md"
   ]
