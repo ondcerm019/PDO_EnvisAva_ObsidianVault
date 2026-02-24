@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "Jak zjistit, kdo učí moje cvičení z předmětu X?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "Jak zjistit, kdo učí moje cvičení z předmětu X?"
             }
           }
         ],
@@ -200,7 +200,8 @@
   },
   "active": "c3566ada839707d3",
   "lastOpenFiles": [
-    "index.md.md",
+    "Pasted image 20260224094940.png",
+    "Jak zjistit, kdo učí moje cvičení z předmětu X?.md",
     "First .md.md",
     "Hello world.md"
   ]
